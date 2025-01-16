@@ -1,25 +1,3 @@
-# NOUNS DUNA BYLAWS AND FORMATION PROPOSAL
-
-Last month, the DAO passed a proposal funding the Nouns Foundation with sufficient resources to establish a Wyoming DUNA and fund its first year of operations. Since the passing of the proposal, the Foundation has continued working with its advisors to prepare to launch the DUNA, including drafting the attached DUNA Bylaws.
-
-This proposal is a referendum on the enactment of the Bylaws, which as discussed further below will provide some of the internal governance rules of the DUNA. If the proposal passes, we will move forward with: (i) winding up and liquidating the Nouns DAO Foundation, (ii) launching the Wyoming DUNA, (iii) contributing the assets and liabilities of the Foundation to the DUNA and (iv) electing an Administrator to fulfill the duties described below. The Bylaws will be implemented in conjunction with the launch of the DUNA, which we anticipate taking place approximately three weeks after this proposal passes.
-
-## DUNA Governance Overview
-
-It's important to note that the DAO's smart contract code would continue to supply the primary internal governance rules of the Nouns DAO DUNA entity. We believe that the DAO's smart contract code provides a robust governance framework and should be the definitive starting point for determining the legality of DAO members' actions (after accounting for applicable laws and regulations), and the Wyoming DUNA is unique among legal entity structures in accommodating this incorporation of a DAO's decentralized governance into the legal entity itself. The smart contract code will follow only the Wyoming DUNA statute and other applicable law in the ordering authority of the entity's governing principles. Accordingly, the Bylaws would act to supplement the code and statute, to the extent there are gaps that are not addressed otherwise.
-
-In practice, this means that if a dispute were to arise about the governance of the DUNA, a court would look to the onchain rules that were determined through democratic DAO governance processes and enshrined in the DAO's smart contract code before looking to the Bylaws. It also means that if the DAO elects to update its smart contract code, the changes would be automatically incorporated into the DUNA under the eyes of the law without requiring further action. This is a stepwise improvement vis-à-vis the Nouns Foundation structure, under which the smart contract code and other onchain DAO actions had no direct bearing on the governing principles of the Nouns Foundation.
-
-## DUNA Bylaws Overview
-
-- As noted above, the Bylaws explicitly and formally incorporate the smart contract code of the DAO into the DUNA's governing principles. The Bylaws do so in Article I: "In the event of a conflict between the Code and the Bylaws, the Code shall supersede the Bylaws and otherwise control the Governing Principles."
-
-- The Bylaws authorize an "Administrator" to serve as a type of Chief Compliance Officer for the DAO, responsible for (i) reviewing DAO proposals for compliance with various laws (ii) taking certain legal compliance actions such as filing taxes and (iii) enacting DAO proposals which require a legal entity or natural person, such as executing contracts or opening a bank account. The Administrator can only be elected through a DAO proposal and will have no authority to act on behalf of the DUNA absent the specific authorization of the DAO. This is an additional unique feature of the DUNA which caters to principles of decentralization and differentiates the Administrator from a director or manager of other types of legal entities, who normally have implicit or explicit agency to act on such entity's behalf.
-
-- Enacting the Bylaws will allow us to move forward with the DUNA launch and therefore progress the DAO towards legal compliance. Moreover, once enacted, the Bylaws can be further updated through a proposal passed by majority DAO vote (like any other update to the DAO's governance). Given this flexibility on a go-forward basis and the fact that we believe that the DUNA is imperative to mitigating significant legal risks to the DAO and its members, unless the community identifies existential risks or otherwise raises significant objections, we recommend adopting the current draft.
-
-We believe that the DUNA structure will allow Nouns DAO to unlock its full potential in a legally compliant manner and are hoping that the community agrees to move forward with this proposal.
-
 # NOUNS DAO DUNA BYLAWS v1.0
 
 ## ARTICLE I
