@@ -4,9 +4,9 @@
 
 ### CORPORATE AUTHORITY AND GOVERNING PRINCIPLES
 
-**Section 1.1. Name.** The name of the Wyoming Decentralized Unincorporated Nonprofit Association is “Nouns DAO” (the “DAO”).
+**Section 1.1. Name.** The name of the Wyoming Decentralized Unincorporated Nonprofit Association is “Nouns DAO” (the “<ins>DAO</ins>”).
 
-**Section 1.2.  General.**  The purposes for which the DAO is organized are to exclusively promote and carry on any purposes and activities for which a Wyoming Decentralized Unincorporated Nonprofit Association (a “DUNA”) may be organized and operated under the Wyoming Decentralized Unincorporated Nonprofit Association Act (the “Act”).
+**Section 1.2.  General.**  The purposes for which the DAO is organized are to exclusively promote and carry on any purposes and activities for which a Wyoming Decentralized Unincorporated Nonprofit Association (a “<ins>DUNA</ins>”) may be organized and operated under the Wyoming Decentralized Unincorporated Nonprofit Association Act (the “Act”).
 
 **Section 1.3.**  Governing Principles.
 * <ins>a) Ordering Authority.</ins> The Governing Principles (as defined below) of the DAO shall be determined, in order, by: 
