@@ -11,7 +11,7 @@
 **Section 1.3.**  Governing Principles.
 * <ins>a) Ordering Authority.</ins> The Governing Principles (as defined below) of the DAO shall be determined, in order, by: 
   * <ins>i.</ins> the statutory requirements of the Act; 
-  * <ins>ii.</ins> the smart contract code (the “Code”) of the DAO: 
+  * <ins>ii.</ins> the smart contract code (the “<ins>Code</ins>”) of the DAO: 
 
 | **Name** | **Address** |
 | ----------- | ----------------------------------------- |
